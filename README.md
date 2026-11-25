@@ -66,7 +66,7 @@
 
 AI Mail MCP provides a unified email inbox for AI agents, enabling them to receive, sort, draft, and manage messages across multiple roles such as support, sales, billing, legal, and HR. The platform offers tools for DNS security, documentation, pricing, and account management, with a sandbox environment for free trials. It emphasizes security with token scoping, audit logs, and outgoing guard mechanisms, and supports custom domains and integrations via MCP endpoints. Pricing is usage‑based, with per‑mailbox and per‑recipient rates, and data is automatically deleted after the trial period unless extended.
 
-**Areas:** Email · AI · MCP · SaaS · Inbox
+**Areas:** Email · Artificial Intelligence · MCP · Software-as-a-Service · Inbox
 
 ## AI Mail MCP on APIs.io
 
@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aimailmcp Com Domain Security](https://apis.io/security/aimailmcp-com/aimailmcp-com-domain-security/)
-- [Aimailmcp Com Vulnerability Disclosure](https://apis.io/security/aimailmcp-com/aimailmcp-com-vulnerability-disclosure/)
+- [AI Mail MCP Domain Security](https://apis.io/security/aimailmcp-com/aimailmcp-com-domain-security/)
+- [AI Mail MCP Vulnerability Disclosure](https://apis.io/security/aimailmcp-com/aimailmcp-com-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -98,7 +98,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aimailmcp-com/](https://apis.io/providers/aimailmcp-com/).
+**Kin Score 21.9** — emerging · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 23.8 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 40.4 |
+
+**Agent readiness 25.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aimailmcp-com/](https://apis.io/providers/aimailmcp-com/).
 
 ## How this profile is made
 
